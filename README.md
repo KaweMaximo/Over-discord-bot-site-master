@@ -38,4 +38,4 @@ Create a [Issue](https://github.com/PatoGordo/VueCDNTemplate/issues) if you don'
 
 ## Author :technologist:
 
-**PatoGordo and Kawe **
+**PatoGordo and Kawe**
